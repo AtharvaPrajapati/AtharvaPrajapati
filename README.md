@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Prajapati</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | React & Next.js</h3>
+<h3 align="center">Full Stack Developer (MERN) | Data Analyst | Power BI & Excel</h3>
 
 <p align="center">
   <a href="https://github.com/yourusername">
@@ -11,36 +11,49 @@
 
 ## 🔥 About Me
 
-- 💻 Full Stack Developer (MERN)
-- 🌐 Building modern, scalable web applications  
-- ⚛️ Specialized in React & Next.js  
-- 🛠️ Backend experience with Node.js & Express  
-- 📚 Currently learning Python & Advanced Backend  
-- 🎯 Goal: To work at top tech companies & build impactful products  
+* 💻 Full Stack Developer specializing in MERN Stack
+* 📊 Data Analyst skilled in Power BI, Excel & SQL
+* 🌐 Building scalable web applications & dashboards
+* ⚛️ Strong in React & Next.js frontend development
+* 🛠️ Backend experience with Node.js & Express
+* 📚 Currently learning Advanced Analytics & System Design
+* 🎯 Goal: Work at top tech companies & build impactful digital products
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🧰 Tools
+### 📊 Data Analytics
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+**Tools & Platforms**
+
+* Power BI
+* Microsoft Excel
+* SQL
+* Power Query
+* Data Cleaning & Visualization
 
 ---
 
@@ -63,9 +76,19 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Backend Development  
-- System Design Basics  
-- Python for Backend & Automation  
+* Advanced Backend Development
+* System Design Basics
+* Python for Data Analytics
+* Dashboard Optimization in Power BI
+
+---
+
+## 📌 Featured Work
+
+* MERN Stack Web Applications
+* Power BI Business Dashboards
+* Excel Automation Projects
+* Data Cleaning & Reporting Solutions
 
 ---
 
@@ -87,4 +110,4 @@
 
 ## 💡 Fun Fact
 
-I love building real-world production projects and turning ideas into live products 🚀
+I enjoy building real-world production projects, creating dashboards from raw data, and turning ideas into live products 🚀
