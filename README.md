@@ -95,13 +95,13 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/atharva-prajapati-697342288">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:prajapatiatharva230@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://portfolio-link.com">
+  <a href="(https://atharvaprajapati.vercel.app">
     <img src="https://skillicons.dev/icons?i=webflow" />
   </a>
 </p>
